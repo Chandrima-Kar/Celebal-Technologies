@@ -9,10 +9,10 @@
 #### 3.Go the project directory
 
 #### --->write in the terminal 
-#### cd second_assignment
+<mark>cd second_assignment</mark>
  
  #### 4.In the project directory, you can run:
- #### node server.js
+ <mark> node server.js </mark>
 
 #### 5.Runs the app in the development mode.
 
